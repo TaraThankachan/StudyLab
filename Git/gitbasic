@@ -1,0 +1,8 @@
+git status
+git add -A
+git commit -m "comment"
+git push origin master
+
+
+To clone a project .
+git clone https://github.com/TaraThankachan/StudyLab.git
